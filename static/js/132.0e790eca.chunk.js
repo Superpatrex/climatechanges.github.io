@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[132],{132:(e,r,s)=>{s.r(r),s.d(r,{default:()=>u});var t=s(43),c=s(32),n=s(579);const u=e=>{let{spec:r}=e;const s=(0,t.useRef)(null);return(0,t.useEffect)((()=>{r&&(0,c.Ay)(s.current,r).then((e=>{console.log("Vega embed result:",e)})).catch((e=>{console.error("Error embedding Vega visualization:",e)}))}),[r]),(0,n.jsx)("div",{ref:s})}}}]);
+//# sourceMappingURL=132.0e790eca.chunk.js.map

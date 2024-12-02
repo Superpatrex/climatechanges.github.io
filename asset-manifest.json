@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/climatechanges.github.io/static/css/main.81e6ef88.css",
+    "main.js": "/climatechanges.github.io/static/js/main.93d975f5.js",
+    "static/js/821.1e0296a9.chunk.js": "/climatechanges.github.io/static/js/821.1e0296a9.chunk.js",
+    "static/js/132.0e790eca.chunk.js": "/climatechanges.github.io/static/js/132.0e790eca.chunk.js",
+    "static/js/453.ed3810f9.chunk.js": "/climatechanges.github.io/static/js/453.ed3810f9.chunk.js",
+    "static/js/32.c6985e38.chunk.js": "/climatechanges.github.io/static/js/32.c6985e38.chunk.js",
+    "static/media/globe_spinning.gif": "/climatechanges.github.io/static/media/globe_spinning.4b7acf73999186be8ea2.gif",
+    "static/media/waterBG.png": "/climatechanges.github.io/static/media/waterBG.3ca1921b96915ee08268.png",
+    "static/media/cautionTape.png": "/climatechanges.github.io/static/media/cautionTape.da679f1cfd96ac7256fb.png",
+    "index.html": "/climatechanges.github.io/index.html",
+    "main.81e6ef88.css.map": "/climatechanges.github.io/static/css/main.81e6ef88.css.map",
+    "main.93d975f5.js.map": "/climatechanges.github.io/static/js/main.93d975f5.js.map",
+    "821.1e0296a9.chunk.js.map": "/climatechanges.github.io/static/js/821.1e0296a9.chunk.js.map",
+    "132.0e790eca.chunk.js.map": "/climatechanges.github.io/static/js/132.0e790eca.chunk.js.map",
+    "453.ed3810f9.chunk.js.map": "/climatechanges.github.io/static/js/453.ed3810f9.chunk.js.map",
+    "32.c6985e38.chunk.js.map": "/climatechanges.github.io/static/js/32.c6985e38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81e6ef88.css",
+    "static/js/main.93d975f5.js"
+  ]
+}
